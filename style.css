@@ -120,3 +120,29 @@ footer{
     transform: translate(-50%, -50%);
     height: 75vh;
 }
+@media (max-width:960px){
+    body {
+        background-color: tomato;
+    }
+    main{
+        justify-content: space-between;
+    }
+    .container{
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        text-align: center;
+        gap: 16px;
+    }
+    .description{
+        width: 100;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+    }
+    footer {
+        display: none;
+
+    }
+}
