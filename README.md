@@ -18,4 +18,8 @@ site do tipo landing page para divulgar o jogo let's go, pikachu. o intuito dest
 ---
 
 ## Autor
+<<<<<<< HEAD
 - [Gustavo Miguel]()
+=======
+- [Gustavo Miguel]()
+>>>>>>> c931458e09866d6ad57202cbee3660e2abb37d6f
