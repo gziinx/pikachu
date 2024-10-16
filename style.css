@@ -145,4 +145,7 @@ footer{
         display: none;
 
     }
+    .pikachu-image{
+        height: 50vh;
+    }
 }
